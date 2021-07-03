@@ -1,0 +1,28 @@
+
+.heading{
+    color: red;
+    font-weight: 900;
+    text-align: center;
+}
+.team{
+    margin: 10px;
+    padding: 10px;
+    border: red solid 5px;
+}
+.team h2{
+    color: white;
+    background-color: black;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+.senior h3{
+    color: rgb(2, 2, 54);
+}
+.umpiers{
+    background-color: gainsboro;
+    color: rgb(5, 173, 109);
+    padding: 10px;
+    margin: 10px;
+}
